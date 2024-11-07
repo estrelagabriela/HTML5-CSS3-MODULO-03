@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+    background-image: url('ex022/imagens/pattern004.png');
+}
+div.quadrado{
+    display: inline-block;
+    border: 2px solid rgba(0, 0, 0, 0.473);
+    border-radius: 20px;
+    box-shadow: 2px 3px 3px 1px;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+div#q1{
+background-color: rgba(7, 61, 7, 0.836);
+}
+div#q2{
+    background-image:linear-gradient(to bottom, pink,white);
+
+}
+div#q3{
+    background-image: url('ex022/imagens/pattern003.png');
+
+}
