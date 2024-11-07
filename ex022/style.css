@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-    background-image: url('ex022/imagens/pattern004.png');
+    background-image: url('imagens/pattern004.png');
 }
 div.quadrado{
     display: inline-block;
@@ -19,6 +19,6 @@ div#q2{
 
 }
 div#q3{
-    background-image: url('ex022/imagens/pattern003.png');
+    background-image: url('imagens/pattern003.png');
 
 }
