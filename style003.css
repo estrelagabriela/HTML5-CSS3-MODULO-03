@@ -6,3 +6,15 @@ div.bloco{
     border-radius: 20px;
     border: 2px solid black;
 }
+div#quadrado01{
+    background-position: left top;
+}
+div#quadrado02{
+    background-position: left center;
+}
+div#quadrado03{
+    background-position: center center;
+}
+div#quadrado04{
+    background-position: right bottom;
+}
